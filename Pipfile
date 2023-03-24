@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+myprosody = {editable = true, path = "."}
+matplotlib = "*"
+speechrecognition = "*"
+pdfplumber = "*"
+docx2txt = "*"
+neattext = "*"
+nltk = "*"
+spacy = "*"
+textblob = "*"
+yake = "*"
+wordcloud = "*"
+sklearn = "*"
+rake-nltk = "*"
+google-trans-new = "*"
+gensim = "*"
+gensim-sum-ext = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
