@@ -1,0 +1,7 @@
+setup.py
+myprosody.egg-info/PKG-INFO
+myprosody.egg-info/SOURCES.txt
+myprosody.egg-info/dependency_links.txt
+myprosody.egg-info/not-zip-safe
+myprosody.egg-info/requires.txt
+myprosody.egg-info/top_level.txt
